@@ -11,3 +11,9 @@ body {
 button {
   cursor: pointer;
 }
+
+@media (max-widht: 375px) {
+  h1 {
+    width: 10px;
+  }
+}
